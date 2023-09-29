@@ -1,7 +1,7 @@
 # Data Science Cookie Cutter
 
 ## Why?
-It is important to structure your data science project based on a certain standard so that your teammates can easily maintain and modify your project.
+It is important to structure your data science project based on a certain standard so that you can easily maintain and modify your project, also share with your colabrators/development team
 
 This repository provides a template that incorporates best practices to create a maintainable and reproducible data science project.  
 
